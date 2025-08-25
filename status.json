@@ -1,79 +1,79 @@
 {
-  "generated_utc": "2025-08-25T14:29:53.985606Z",
+  "generated_utc": "2025-08-25T14:43:32.825278Z",
   "limit": 20,
   "items": {
     "spoofer": [
       {
-        "id": 23,
-        "name": "deltaforcespoofer",
-        "status": 0,
-        "updated_time": "2025-07-27T22:16:01.359168"
-      },
-      {
         "id": 6,
         "name": "valorantspoofer",
-        "status": 2,
-        "updated_time": "2025-07-26T16:42:15"
-      },
-      {
-        "id": 11,
-        "name": "gtaspoofer",
         "status": 0,
-        "updated_time": "2025-07-14T09:49:18"
-      },
-      {
-        "id": 10,
-        "name": "apexspoofer",
-        "status": 0,
-        "updated_time": "2025-07-09T07:41:16"
-      },
-      {
-        "id": 2,
-        "name": "fortnitespoofer",
-        "status": 0,
-        "updated_time": "2025-07-08T11:15:44"
-      },
-      {
-        "id": 13,
-        "name": "dbdspoofer",
-        "status": 0,
-        "updated_time": "2025-07-07T10:22:49"
+        "updated_time": "2025-08-25T07:04:50"
       },
       {
         "id": 17,
         "name": "rainbowspoofer",
         "status": 0,
-        "updated_time": "2025-07-06T21:09:33"
-      },
-      {
-        "id": 8,
-        "name": "codspoofer",
-        "status": 0,
-        "updated_time": "2025-07-05T16:35:42"
+        "updated_time": "2025-08-25T05:47:08"
       },
       {
         "id": 4,
         "name": "pubgspoofer",
         "status": 0,
-        "updated_time": "2025-07-04T15:18:27"
+        "updated_time": "2025-08-25T05:28:34"
       },
       {
-        "id": 1,
-        "name": "spoofer",
+        "id": 10,
+        "name": "apexspoofer",
         "status": 0,
-        "updated_time": "2025-07-03T14:23:15"
+        "updated_time": "2025-08-25T05:28:00"
       },
       {
         "id": 3,
         "name": "rustspoofer",
         "status": 0,
-        "updated_time": "2025-07-02T19:42:36"
+        "updated_time": "2025-08-25T05:22:03"
+      },
+      {
+        "id": 1,
+        "name": "spoofer",
+        "status": 0,
+        "updated_time": "2025-08-25T05:01:02"
+      },
+      {
+        "id": 2,
+        "name": "fortnitespoofer",
+        "status": 0,
+        "updated_time": "2025-08-25T04:36:14"
+      },
+      {
+        "id": 8,
+        "name": "codspoofer",
+        "status": 0,
+        "updated_time": "2025-08-25T04:13:49"
       },
       {
         "id": 7,
         "name": "eftspoofer",
         "status": 0,
-        "updated_time": "2025-07-01T13:28:54"
+        "updated_time": "2025-08-25T02:55:52"
+      },
+      {
+        "id": 11,
+        "name": "gtaspoofer",
+        "status": 0,
+        "updated_time": "2025-08-25T02:07:11"
+      },
+      {
+        "id": 23,
+        "name": "deltaforcespoofer",
+        "status": 0,
+        "updated_time": "2025-08-25T01:09:04"
+      },
+      {
+        "id": 13,
+        "name": "dbdspoofer",
+        "status": 0,
+        "updated_time": "2025-08-25T00:24:25"
       }
     ],
     "cheat": [
