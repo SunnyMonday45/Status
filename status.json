@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2025-08-25T14:25:06.164916Z",
+  "generated_utc": "2025-08-25T14:29:53.985606Z",
   "limit": 20,
   "items": {
     "spoofer": [
@@ -10,82 +10,16 @@
         "updated_time": "2025-07-27T22:16:01.359168"
       },
       {
-        "id": 18,
-        "name": "valorantcheat",
-        "status": 2,
-        "updated_time": "2025-07-26T16:48:22"
-      },
-      {
         "id": 6,
         "name": "valorantspoofer",
         "status": 2,
         "updated_time": "2025-07-26T16:42:15"
       },
       {
-        "id": 20,
-        "name": "codcheat",
-        "status": 0,
-        "updated_time": "2025-07-24T14:07:31"
-      },
-      {
-        "id": 22,
-        "name": "gtacheat",
-        "status": 0,
-        "updated_time": "2025-07-20T16:31:05"
-      },
-      {
-        "id": 5,
-        "name": "rainbowcheat",
-        "status": 0,
-        "updated_time": "2025-07-19T09:16:48"
-      },
-      {
-        "id": 9,
-        "name": "dbdcheat",
-        "status": 0,
-        "updated_time": "2025-07-18T17:58:23"
-      },
-      {
-        "id": 19,
-        "name": "eftcheat",
-        "status": 0,
-        "updated_time": "2025-07-17T11:53:26"
-      },
-      {
-        "id": 16,
-        "name": "pubgcheat",
-        "status": 0,
-        "updated_time": "2025-07-16T12:44:19"
-      },
-      {
-        "id": 24,
-        "name": "deltaforcecheat",
-        "status": 0,
-        "updated_time": "2025-07-15T23:10:07"
-      },
-      {
-        "id": 14,
-        "name": "fortnitecheat",
-        "status": 0,
-        "updated_time": "2025-07-15T08:33:21"
-      },
-      {
         "id": 11,
         "name": "gtaspoofer",
         "status": 0,
         "updated_time": "2025-07-14T09:49:18"
-      },
-      {
-        "id": 21,
-        "name": "apexcheat",
-        "status": 0,
-        "updated_time": "2025-07-12T18:14:52"
-      },
-      {
-        "id": 15,
-        "name": "rustcheat",
-        "status": 0,
-        "updated_time": "2025-07-11T06:27:13"
       },
       {
         "id": 10,
@@ -122,15 +56,27 @@
         "name": "pubgspoofer",
         "status": 0,
         "updated_time": "2025-07-04T15:18:27"
+      },
+      {
+        "id": 1,
+        "name": "spoofer",
+        "status": 0,
+        "updated_time": "2025-07-03T14:23:15"
+      },
+      {
+        "id": 3,
+        "name": "rustspoofer",
+        "status": 0,
+        "updated_time": "2025-07-02T19:42:36"
+      },
+      {
+        "id": 7,
+        "name": "eftspoofer",
+        "status": 0,
+        "updated_time": "2025-07-01T13:28:54"
       }
     ],
     "cheat": [
-      {
-        "id": 23,
-        "name": "deltaforcespoofer",
-        "status": 0,
-        "updated_time": "2025-07-27T22:16:01.359168"
-      },
       {
         "id": 9,
         "name": "dbdcheat",
@@ -144,12 +90,6 @@
         "updated_time": "2025-07-26T16:51:07"
       },
       {
-        "id": 6,
-        "name": "valorantspoofer",
-        "status": 2,
-        "updated_time": "2025-07-26T16:45:33"
-      },
-      {
         "id": 20,
         "name": "codcheat",
         "status": 0,
@@ -160,12 +100,6 @@
         "name": "gtacheat",
         "status": 0,
         "updated_time": "2025-07-24T08:57:21"
-      },
-      {
-        "id": 8,
-        "name": "codspoofer",
-        "status": 0,
-        "updated_time": "2025-07-23T12:19:57"
       },
       {
         "id": 5,
@@ -198,52 +132,16 @@
         "updated_time": "2025-07-18T13:55:09"
       },
       {
-        "id": 11,
-        "name": "gtaspoofer",
-        "status": 0,
-        "updated_time": "2025-07-16T14:22:43"
-      },
-      {
-        "id": 10,
-        "name": "apexspoofer",
-        "status": 0,
-        "updated_time": "2025-07-15T21:26:39"
-      },
-      {
         "id": 15,
         "name": "rustcheat",
         "status": 0,
         "updated_time": "2025-07-14T17:39:45"
       },
       {
-        "id": 17,
-        "name": "rainbowspoofer",
-        "status": 0,
-        "updated_time": "2025-07-13T18:25:12"
-      },
-      {
-        "id": 2,
-        "name": "fortnitespoofer",
-        "status": 0,
-        "updated_time": "2025-07-12T16:28:17"
-      },
-      {
-        "id": 13,
-        "name": "dbdspoofer",
-        "status": 0,
-        "updated_time": "2025-07-11T15:34:06"
-      },
-      {
         "id": 24,
         "name": "deltaforcecheat",
         "status": 0,
         "updated_time": "2025-07-10T22:02:07"
-      },
-      {
-        "id": 7,
-        "name": "eftspoofer",
-        "status": 0,
-        "updated_time": "2025-07-10T20:17:38"
       }
     ]
   }
