@@ -1,147 +1,147 @@
 {
-  "generated_utc": "2025-10-07T21:34:14.341851Z",
+  "generated_utc": "2025-10-07T22:04:17.203796Z",
   "limit": 20,
   "items": {
     "spoofer": [
       {
-        "id": 2,
-        "name": "fortnitespoofer",
+        "id": 11,
+        "name": "gtaspoofer",
         "status": 0,
-        "updated_time": "2025-09-19T18:55:37.137016"
-      },
-      {
-        "id": 10,
-        "name": "apexspoofer",
-        "status": 0,
-        "updated_time": "2025-09-19T18:55:37.137016"
-      },
-      {
-        "id": 8,
-        "name": "codspoofer",
-        "status": 0,
-        "updated_time": "2025-09-19T18:55:37.137016"
+        "updated_time": "2025-10-07T05:45:30.506399"
       },
       {
         "id": 13,
         "name": "dbdspoofer",
         "status": 0,
-        "updated_time": "2025-09-19T18:55:37.137016"
+        "updated_time": "2025-10-06T18:17:28.999919"
+      },
+      {
+        "id": 8,
+        "name": "codspoofer",
+        "status": 0,
+        "updated_time": "2025-10-06T00:31:03.201326"
+      },
+      {
+        "id": 2,
+        "name": "fortnitespoofer",
+        "status": 0,
+        "updated_time": "2025-10-05T18:52:22.135725"
       },
       {
         "id": 23,
         "name": "deltaforcespoofer",
         "status": 0,
-        "updated_time": "2025-09-19T18:55:37.137016"
-      },
-      {
-        "id": 7,
-        "name": "eftspoofer",
-        "status": 0,
-        "updated_time": "2025-09-19T18:55:37.137016"
-      },
-      {
-        "id": 11,
-        "name": "gtaspoofer",
-        "status": 0,
-        "updated_time": "2025-09-19T18:55:37.137016"
-      },
-      {
-        "id": 4,
-        "name": "pubgspoofer",
-        "status": 0,
-        "updated_time": "2025-09-19T18:55:37.137016"
+        "updated_time": "2025-10-04T14:39:59.521940"
       },
       {
         "id": 17,
         "name": "rainbowspoofer",
         "status": 0,
-        "updated_time": "2025-09-19T18:55:37.137016"
+        "updated_time": "2025-10-04T12:08:17.143866"
       },
       {
         "id": 3,
         "name": "rustspoofer",
         "status": 0,
-        "updated_time": "2025-09-19T18:55:37.137016"
+        "updated_time": "2025-10-04T09:04:30.840383"
+      },
+      {
+        "id": 7,
+        "name": "eftspoofer",
+        "status": 0,
+        "updated_time": "2025-10-03T18:52:38.153863"
       },
       {
         "id": 1,
         "name": "spoofer",
         "status": 0,
-        "updated_time": "2025-09-19T18:55:37.137016"
+        "updated_time": "2025-10-03T11:12:48.711998"
+      },
+      {
+        "id": 10,
+        "name": "apexspoofer",
+        "status": 0,
+        "updated_time": "2025-10-03T10:50:14.014537"
+      },
+      {
+        "id": 4,
+        "name": "pubgspoofer",
+        "status": 0,
+        "updated_time": "2025-10-03T08:51:39.258417"
       },
       {
         "id": 6,
         "name": "valorantspoofer",
         "status": 2,
-        "updated_time": "2025-09-19T18:55:37.137016"
+        "updated_time": "2025-10-01T20:38:01.898232"
       }
     ],
     "cheat": [
       {
-        "id": 20,
-        "name": "codcheat",
+        "id": 5,
+        "name": "rainbowcheat",
         "status": 0,
-        "updated_time": "2025-09-19T18:55:37.137016"
+        "updated_time": "2025-10-07T08:07:42.811754"
       },
       {
         "id": 9,
         "name": "dbdcheat",
         "status": 0,
-        "updated_time": "2025-09-19T18:55:37.137016"
-      },
-      {
-        "id": 24,
-        "name": "deltaforcecheat",
-        "status": 0,
-        "updated_time": "2025-09-19T18:55:37.137016"
-      },
-      {
-        "id": 19,
-        "name": "eftcheat",
-        "status": 0,
-        "updated_time": "2025-09-19T18:55:37.137016"
-      },
-      {
-        "id": 22,
-        "name": "gtacheat",
-        "status": 0,
-        "updated_time": "2025-09-19T18:55:37.137016"
-      },
-      {
-        "id": 16,
-        "name": "pubgcheat",
-        "status": 0,
-        "updated_time": "2025-09-19T18:55:37.137016"
-      },
-      {
-        "id": 5,
-        "name": "rainbowcheat",
-        "status": 0,
-        "updated_time": "2025-09-19T18:55:37.137016"
-      },
-      {
-        "id": 15,
-        "name": "rustcheat",
-        "status": 0,
-        "updated_time": "2025-09-19T18:55:37.137016"
-      },
-      {
-        "id": 18,
-        "name": "valorantcheat",
-        "status": 2,
-        "updated_time": "2025-09-19T18:55:37.137016"
+        "updated_time": "2025-10-06T23:04:00.316135"
       },
       {
         "id": 14,
         "name": "fortnitecheat",
         "status": 0,
-        "updated_time": "2025-09-19T18:55:37.137016"
+        "updated_time": "2025-10-06T08:37:29.324911"
+      },
+      {
+        "id": 15,
+        "name": "rustcheat",
+        "status": 0,
+        "updated_time": "2025-10-06T01:21:39.839830"
+      },
+      {
+        "id": 16,
+        "name": "pubgcheat",
+        "status": 0,
+        "updated_time": "2025-10-04T18:41:26.081463"
+      },
+      {
+        "id": 20,
+        "name": "codcheat",
+        "status": 0,
+        "updated_time": "2025-10-04T04:25:13.451739"
+      },
+      {
+        "id": 22,
+        "name": "gtacheat",
+        "status": 0,
+        "updated_time": "2025-10-02T11:45:52.482817"
+      },
+      {
+        "id": 19,
+        "name": "eftcheat",
+        "status": 0,
+        "updated_time": "2025-10-01T16:44:51.808389"
       },
       {
         "id": 21,
         "name": "apexcheat",
         "status": 0,
-        "updated_time": "2025-09-19T18:55:37.137016"
+        "updated_time": "2025-10-01T15:34:19.821776"
+      },
+      {
+        "id": 24,
+        "name": "deltaforcecheat",
+        "status": 0,
+        "updated_time": "2025-09-30T21:55:28.452302"
+      },
+      {
+        "id": 18,
+        "name": "valorantcheat",
+        "status": 2,
+        "updated_time": "2025-09-30T19:01:06.819382"
       }
     ]
   }
